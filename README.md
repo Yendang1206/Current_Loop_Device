@@ -22,5 +22,4 @@ Eliminated capacitive crosstalk and frequency interference using proper groundin
 3. Monitor real-time input values on the LCD I2C display.
 4. Verify current loop outputs using multimeters for accuracy.
 ## Future recommendations
-+ Conduct EMC testing to further enhance noise immunity and long-term stability.
-+ Optimize the DC power supply to reduce potential noise in the system.
+Conduct EMC testing to further enhance noise immunity and long-term stability.
