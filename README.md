@@ -17,10 +17,10 @@ Demonstrated positive correlation between torque and speed inputs with the corre
 Achieved consistent performance between breadboard prototypes and integrated PCB systems.
 Eliminated capacitive crosstalk and frequency interference using proper grounding, shielding, and CAT6 cable pairing.
 ## How to use
-+ Connect the device between the motor and the frequency converter.
-+ Adjust torque and speed inputs using the rotary encoder.
-+ Monitor real-time input values on the LCD I2C display.
-+ Verify current loop outputs using a multimeter for accuracy.
+1. Connect the device between the motor and the frequency converter.
+2. Adjust torque and speed inputs using the rotary encoder.
+3. Monitor real-time input values on the LCD I2C display.
+4. Verify current loop outputs using multimeters for accuracy.
 ## Future recommendations
-Conduct EMC testing to further enhance noise immunity and long-term stability.
-Optimize the DC power supply to reduce potential noise in the system.
++ Conduct EMC testing to further enhance noise immunity and long-term stability.
++ Optimize the DC power supply to reduce potential noise in the system.
